@@ -4,10 +4,10 @@ Code behind a series of articles on MLB's postseason format and the 2026 CBA pro
 
 | Article | Notebook |
 |---|---|
-| [Did Your Team Deserve Better in the Postseason?](MEDIUM_LINK) | `notebooks/path_analysis.ipynb` |
-| [Would MLB's CBA Proposal Make the 1 Seed Worth Chasing?](MEDIUM_LINK_2) | `notebooks/drafting_analysis.ipynb` |
+| [Is MLB's Postseason Rewarding the Wrong Teams? (2026)](https://medium.com/@iHeartData/is-mlbs-postseason-rewarding-the-wrong-teams-2026-a186c1721137) | `notebooks/path_analysis.ipynb` |
+| Would MLB's CBA Proposal Make the 1 Seed Worth Chasing? (link coming soon) | `notebooks/drafting_analysis.ipynb` |
 
-## Did your team deserve better?
+## Is MLB's postseason rewarding the wrong teams?
 
 The first article measures how often MLB's 12-team postseason (2022–2026) gives a worse record the better outcome, on actual records and on schedule-adjusted records.
 
