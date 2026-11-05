@@ -5,7 +5,7 @@ Code behind a series of articles on MLB's postseason format and the 2026 CBA pro
 | Article | Notebook |
 |---|---|
 | [Did Your Team Deserve Better in the Postseason?](MEDIUM_LINK) | `notebooks/path_analysis.ipynb` |
-| [Is the 1 Seed Worth Chasing?](MEDIUM_LINK_2) | `notebooks/drafting_analysis.ipynb` |
+| [Would MLB's CBA Proposal Make the 1 Seed Worth Chasing?](MEDIUM_LINK_2) | `notebooks/drafting_analysis.ipynb` |
 
 ## Did your team deserve better?
 
@@ -18,7 +18,7 @@ The first article measures how often MLB's 12-team postseason (2022–2026) give
 
 A team's record depends partly on who it played. `src/ratings.py` fits a Bradley–Terry model (a logistic regression on every regular-season game, with a home-field term) separately for each season. From the fitted team strengths, it computes each team's expected winning percentage against every other team on a neutral field: the record it would have had against a perfectly balanced schedule.
 
-## Is the 1 seed worth chasing? (MLB's drafting proposal)
+## Would MLB's CBA proposal make the 1 seed worth chasing?
 
 MLB's October 2026 CBA proposal would let the 1 seed pick its Division Series opponent and the 3 seed pick its Wild Card opponent (from 2027). `notebooks/drafting_analysis.ipynb` simulates 260,000 seasons and measures how often each seed reaches each round under today's bracket and under drafting, with several pick rules (true talent, overall record, head-to-head, and a mix).
 
