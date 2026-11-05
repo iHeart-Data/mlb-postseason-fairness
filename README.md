@@ -5,7 +5,7 @@ Code behind a series of articles on MLB's postseason format and the 2026 CBA pro
 | Article | Notebook |
 |---|---|
 | [Is MLB's Postseason Rewarding the Wrong Teams? (2026)](https://medium.com/@iHeartData/is-mlbs-postseason-rewarding-the-wrong-teams-2026-a186c1721137) | `notebooks/path_analysis.ipynb` |
-| Would MLB's CBA Proposal Make the 1 Seed Worth Chasing? (link coming soon) | `notebooks/drafting_analysis.ipynb` |
+| [Would MLB's CBA Proposal Make the 1 Seed Worth Chasing?](https://medium.com/@iHeartData/would-mlbs-cba-proposal-make-the-1-seed-worth-chasing-a0c151d05c11) | `notebooks/drafting_analysis.ipynb` |
 
 ## Is MLB's postseason rewarding the wrong teams?
 
